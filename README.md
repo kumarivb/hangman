@@ -1,2 +1,13 @@
-# hangman
-hangman game
+# Hangman
+
+### Description
+Hangman game
+
+### New Skills
+
+
+### Technologies
+* JavaScript
+
+
+### Challenges
